@@ -1,0 +1,8 @@
+{
+	"fDamage":"1.5",
+	"fMovementSpeed":"0.053", 
+	"fShotForce":"4", 
+	"fShotSize": "0",
+	"fRange": "0.6",
+	"iHealthPoints": "3"
+}

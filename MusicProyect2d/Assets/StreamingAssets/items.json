@@ -1,0 +1,76 @@
+{
+	"items":[
+		{
+			"sName":"guitar", 
+			"fDamage":"0.16",
+			"fMovementSpeed":"0", 
+			"fShotForce":"1.75", 
+			"fShotSize": "-0.05", 
+			"fRange": "0.2",
+			"iHP": "0"
+		},
+		{
+			"sName":"microphone", 
+			"fDamage":"0",
+			"fMovementSpeed":"0", 
+			"fShotForce":"0.4", 
+			"fShotSize": "0.056", 
+			"fRange": "0",
+			"iHP": "0"
+		},
+		{
+			"sName":"aphrowig", 
+			"fDamage":"0",
+			"fMovementSpeed":"0.008", 
+			"fShotForce":"0", 
+			"fShotSize": "0",
+			"fRange": "0",			
+			"iHP": "1"
+		},
+		{
+			"sName":"rastahat",
+			"fDamage":"0",			
+			"fMovementSpeed":"-0.006", 
+			"fShotForce":"0", 
+			"fShotSize": "0",
+			"fRange": "0.12",
+			"iHP": "1"
+		},
+		{
+			"sName":"queenvinyl",
+			"fDamage":"0.6",			
+			"fMovementSpeed":"0", 
+			"fShotForce":"0", 
+			"fShotSize": "0",
+			"fRange": "0",
+			"iHP": "0"
+		},
+		{
+			"sName":"gloves",
+			"fDamage":"0",			
+			"fMovementSpeed":"0.012", 
+			"fShotForce":"0", 
+			"fShotSize": "0",
+			"fRange": "0",
+			"iHP": "0"
+		},
+		{
+			"sName":"meatSuit",
+			"fDamage":"0",			
+			"fMovementSpeed":"0", 
+			"fShotForce":"0", 
+			"fShotSize": "0",
+			"fRange": "0",
+			"iHP": "1"
+		},
+		{
+			"sName":"godsLanguage",
+			"fDamage":"0.35",			
+			"fMovementSpeed":"0", 
+			"fShotForce":"0.4", 
+			"fShotSize": "0.022",
+			"fRange": "0",
+			"iHP": "0"
+		}
+	]
+}
